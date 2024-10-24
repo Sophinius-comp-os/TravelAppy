@@ -1,0 +1,71 @@
+
+h1#heading1{
+    text-align: center;
+}
+
+.paragraph{
+    font-family: "DevjaVu sans Mono";
+    font-size: 18px;
+}
+
+#mydivision{
+    background-color: black;
+    text-align: center;
+    color: gray;
+    padding: 40px;
+    margin: 40px;
+
+}
+
+
+#test{
+    margin: 50px;
+    padding: 40px;
+    background-color: lightslategray;
+    display: flex;
+    color: #fcf7f7;
+}
+
+#test img{
+    margin-right: 30px;
+    border-radius: 400px;
+    display: flex;
+
+}
+
+#main{
+    display: flex;
+    border-radius: 400px;
+
+}
+
+img{
+    border-radius: 200px;
+}
+
+#Advertisement{
+    background-color: #00ffd9;
+    color:white;
+    margin-right: 20px;
+    padding: 30px;
+    box-shadow: 10px 8px 8px 4px gray;
+}
+
+#Accounting{
+    background-color: blue;
+    color:white;
+    margin-right: 20px;
+    padding: 30px;
+    box-shadow: 10px 8px 8px 4px gray;
+}
+
+#Payment{
+    background-color: green;
+    color:white;
+    margin-right: 20px;
+    padding: 30px;
+    box-shadow: 10px 8px 8px 4px gray;
+}
+#Advertisement:hover, #Accounting:hover, #Payment:hover{
+    background-color: lightslategray;
+}
